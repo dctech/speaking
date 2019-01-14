@@ -19,3 +19,9 @@
 - [ ] 20-30 minutes
 - [ ] 30-45 minutes
 - [ ] 60 minutes or more
+
+## Meta
+
+**Do you need help crafting your talk?**
+- [ ] Yes
+- [ ] No
