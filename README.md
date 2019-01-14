@@ -11,3 +11,12 @@ Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with infor
 ## Organizers
 
 Reach out to the speakers whose talks interest you! Also, add tags to the issues so their easier to wade through.
+
+### Participating Meetups
+
+- [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
+- [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
+
+### About the Repo
+
+This is a joint project by some DC Tech organizers. If you have an idea for improving the repo or want your meetup group to participate, feel free to submit a pull request or leave an issue with the #meta tag!
