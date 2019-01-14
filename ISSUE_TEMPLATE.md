@@ -1,3 +1,5 @@
+## About You
+
 **Your Name:**
 
 **Twitter handle (optional):** 
@@ -6,7 +8,9 @@
 
 **A quick bio:**
 
-**Talk title:**
+## Your Talk
+
+**Title:**
 
 **What your talk is about:**
 
