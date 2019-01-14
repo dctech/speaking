@@ -6,11 +6,11 @@ There are a lot of talks that would be awesome for multiple meetups in DC, and i
 
 ## Speakers
 
-Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering.
+Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
 
 ## Organizers
 
-Reach out to the speakers whose talks interest you! Also, add tags to the issues so their easier to wade through.
+Reach out to the speakers whose talks interest you! 
 
 ### Participating Meetups
 
@@ -19,4 +19,4 @@ Reach out to the speakers whose talks interest you! Also, add tags to the issues
 
 ### About the Repo
 
-This is a joint project by some DC Tech organizers. If you have an idea for improving the repo or want your meetup group to participate, feel free to submit a pull request or leave an issue with the #meta tag!
+This is a joint project by some DC Tech organizers. If you have an idea for improving the repo or want your meetup group to participate, feel free to submit a pull request or leave an issue with the `meta` label!
