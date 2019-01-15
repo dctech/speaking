@@ -17,6 +17,7 @@ Reach out to the speakers whose talks interest you!
 - [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
 - [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
 - [ACM Washington DC](https://www.meetup.com/ACM-DC/)
+- [VueDC](https://www.meetup.com/vue-dc/)
 
 ### About the Repo
 
