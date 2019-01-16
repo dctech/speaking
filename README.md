@@ -14,10 +14,11 @@ Reach out to the speakers whose talks interest you!
 
 ### Participating Meetups
 
-- [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
-- [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
 - [ACM Washington DC](https://www.meetup.com/ACM-DC/)
+- [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
+- [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
 - [VueDC](https://www.meetup.com/vue-dc/)
+- [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
 
 ### About the Repo
 
