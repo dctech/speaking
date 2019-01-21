@@ -10,7 +10,7 @@ Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with infor
 
 ## Organizers
 
-Reach out to the speakers whose talks interest you! 
+Reach out to the speakers whose talks interest you!
 
 ### Participating Meetups
 
@@ -19,6 +19,7 @@ Reach out to the speakers whose talks interest you!
 - [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
 - [VueDC](https://www.meetup.com/vue-dc/)
 - [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
+- [DC JavaScript](https://www.meetup.com/DC-JavaScript/)
 
 ### About the Repo
 
