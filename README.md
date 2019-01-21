@@ -23,6 +23,7 @@ Reach out to the speakers whose talks interest you!
 - [Node.DC](https://www.meetup.com/node-dc/)
 - [RVA.js](https://www.meetup.com/rva-js/)
 - [NoVa DevOps] (https://www.meetup.com/nova-devops/)
+- [TechTalkDC](https://www.meetup.com/techtalkDC/)
 
 ### About the Repo
 
