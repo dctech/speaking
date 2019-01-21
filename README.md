@@ -22,6 +22,7 @@ Reach out to the speakers whose talks interest you!
 - [DC JavaScript](https://www.meetup.com/DC-JavaScript/)
 - [Node.DC](https://www.meetup.com/node-dc/)
 - [RVA.js](https://www.meetup.com/rva-js/)
+- [TechTalkDC](https://www.meetup.com/techtalkDC/)
 
 ### About the Repo
 
