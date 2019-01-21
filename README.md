@@ -20,6 +20,7 @@ Reach out to the speakers whose talks interest you!
 - [VueDC](https://www.meetup.com/vue-dc/)
 - [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
 - [DC JavaScript](https://www.meetup.com/DC-JavaScript/)
+- [Node.DC](https://www.meetup.com/node-dc/)
 
 ### About the Repo
 
