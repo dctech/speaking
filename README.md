@@ -26,6 +26,7 @@ Reach out to the speakers whose talks interest you!
 - [NoVa DevOps](https://www.meetup.com/nova-devops/)
 - [TechTalkDC](https://www.meetup.com/techtalkDC/)
 - [.NET DC User Group](https://www.meetup.com/dotnetdc/)
+- [ForeFront](https://4front.io/)
 
 ### About the Repo
 
