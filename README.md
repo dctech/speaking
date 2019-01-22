@@ -17,6 +17,7 @@ Reach out to the speakers whose talks interest you!
 - [ACM Washington DC](https://www.meetup.com/ACM-DC/)
 - [Arlington Ruby](https://www.meetup.com/Arlington-Ruby/)
 - [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
+- [Black Code Collective](https://www.meetup.com/Black-Code-Collective/)
 - [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
 - [VueDC](https://www.meetup.com/vue-dc/)
 - [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
