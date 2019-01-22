@@ -27,6 +27,8 @@ Reach out to the speakers whose talks interest you!
 - [TechTalkDC](https://www.meetup.com/techtalkDC/)
 - [.NET DC User Group](https://www.meetup.com/dotnetdc/)
 - [ForeFront](https://4front.io/)
+- [DC Python](https://www.meetup.com/DCPython/)
+- [Django District](https://www.meetup.com/Django-District/)
 
 ### About the Repo
 
