@@ -24,6 +24,7 @@ Reach out to the speakers whose talks interest you!
 - [RVA.js](https://www.meetup.com/rva-js/)
 - [NoVa DevOps](https://www.meetup.com/nova-devops/)
 - [TechTalkDC](https://www.meetup.com/techtalkDC/)
+- [.NET DC User Group](https://www.meetup.com/dotnetdc/)
 
 ### About the Repo
 
