@@ -30,6 +30,8 @@ Reach out to the speakers whose talks interest you!
 - [ForeFront](https://4front.io/)
 - [DC Python](https://www.meetup.com/DCPython/)
 - [Django District](https://www.meetup.com/Django-District/)
+- [DC Ruby Users Group](https://www.meetup.com/dcruby/)
+- [The Joy of Programming](https://www.meetup.com/Joy-of-Programming-DC/)
 
 ### About the Repo
 
