@@ -33,6 +33,7 @@ Reach out to the speakers whose talks interest you!
 - [Django District](https://www.meetup.com/Django-District/)
 - [DC Ruby Users Group](https://www.meetup.com/dcruby/)
 - [The Joy of Programming](https://www.meetup.com/Joy-of-Programming-DC/)
+- [DC Hack && Tell](https://dc.hackandtell.org/)
 
 ### About the Repo
 
