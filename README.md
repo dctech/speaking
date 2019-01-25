@@ -34,6 +34,7 @@ Reach out to the speakers whose talks interest you!
 - [DC Ruby Users Group](https://www.meetup.com/dcruby/)
 - [The Joy of Programming](https://www.meetup.com/Joy-of-Programming-DC/)
 - [DC Hack && Tell](https://dc.hackandtell.org/)
+- [Papers We Love DC/NoVA](https://www.meetup.com/Papers-We-Love-DC-NoVA/)
 
 ### About the Repo
 
