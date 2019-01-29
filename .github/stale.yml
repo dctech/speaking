@@ -1,0 +1,28 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 365
+
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 7
+
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - meta
+
+# Label to use when marking an issue as stale
+staleLabel: stale
+
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  Hi there — thanks for submitting this talk! It’s been a year since the last activity — would you mind taking a look to see if you’re still interested in presenting about this topic, and if the talk’s content is still up-to-date?
+
+  **If everything’s still good,** just drop a comment here and I’ll pop back into hibernation like a good little robot.
+
+  **If you’re no longer interested in giving this talk,** or the talk is out-of-date, feel free to close this issue.
+
+  Should I not hear back in a week, I’ll close this issue so you needn’t feel guilty about it. ❤️
+
+  Thanks for your contribution to the tech community in DC!
+
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: >
+  Keep being awesome! 🤖✨
