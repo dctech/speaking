@@ -6,7 +6,7 @@ There are a lot of talks that would be awesome for multiple meetups in DC, and i
 
 ## Speakers
 
-Please [fill out an issue](https://github.com/dctech/cfps/issues/new) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
+Please [fill out an issue](https://github.com/dctech/speaking/issues/new?template=talk.md) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
 
 ## Organizers
 
