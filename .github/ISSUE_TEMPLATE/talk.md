@@ -1,3 +1,8 @@
+---
+name: Talk
+about: Submit a talk idea to participating meetups.
+---
+
 ## About You
 
 **Your Name:**
