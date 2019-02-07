@@ -18,6 +18,7 @@ Reach out to the speakers whose talks interest you!
 - [Arlington Ruby](https://www.meetup.com/Arlington-Ruby/)
 - [Art + Code Collective](https://www.meetup.com/Art-Code-Collective/members/?sort=join_date&desc=true)
 - [Black Code Collective](https://www.meetup.com/Black-Code-Collective/)
+- [DevOpsDC](https://www.meetup.com/DevOpsDC) (we also publish our [speaker pipeline](https://github.com/devopsdc/devopsdc/projects/1))
 - [DC Hack && Tell](https://dc.hackandtell.org/)
 - [DC JavaScript](https://www.meetup.com/DC-JavaScript/)
 - [DC Python](https://www.meetup.com/DCPython/)
