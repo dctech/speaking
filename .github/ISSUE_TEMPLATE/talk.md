@@ -1,5 +1,6 @@
 ---
 name: Talk
+labels: talk
 about: Submit a talk idea to participating meetups.
 ---
 
