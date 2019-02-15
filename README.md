@@ -14,7 +14,7 @@ Reach out to the speakers whose talks interest you!
 
 ## Community
 
-Feel free to suggest a talk your meetup would like to hear! To request a talk idea, please [fill out an issue](https://github.com/dctech/speaking/issues/new?request.md) with the information about the talk you'd like to hear.
+Feel free to suggest a talk your meetup would like to hear! To request a talk idea, please [fill out an issue](https://github.com/dctech/speaking/issues/new?template=request.md) with the information about the talk you'd like to hear.
 
 ### Participating Meetups
 
