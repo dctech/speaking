@@ -40,3 +40,13 @@ Reach out to the speakers whose talks interest you!
 ### About the Repo
 
 This is a joint project by some DC Tech organizers. If you have an idea for improving the repo or want your meetup group to participate, feel free to submit a pull request or leave an issue with the `meta` label!
+
+#### Technical Setup
+Meetup group admins (or anyone) can get notified about potential talks by "watching" the repo (next to "star" and "fork").
+
+To help people fill out talk-submission and talk-request issues in a consistent way, we use [GitHub Issue Templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+
+We also have two Probot scripts that auto-respond to issues for us. We use the [Auto-comment Probot](https://probot.github.io/apps/auto-comment/) to welcome people who submit a talk-issue. We use the [Stale Probot](https://probot.github.io/apps/stale/) to close talk-issues that are very old and not recently touched.
+
+You can see the config for each of these in our [.github](https://github.com/dctech/speaking/tree/master/.github) folder.
+
