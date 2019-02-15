@@ -40,3 +40,8 @@ Reach out to the speakers whose talks interest you!
 ### About the Repo
 
 This is a joint project by some DC Tech organizers. If you have an idea for improving the repo or want your meetup group to participate, feel free to submit a pull request or leave an issue with the `meta` label!
+
+#### Intent
+From a speaker's perspective, it is great to be able to submit talks to many groups at once. This particularly affects talks that are general or evergreen, like those that are focused on soft skills and blogging -- these apply to many different audiences, not just a particular language or interest group.
+
+From an organizer's perspective, it is great to have a list of folks available to fill gaps in speaking schedules. Often gaps are filled by tapping into an in-network (“oh, I know this person has a talk they can whip up!“), but that furthers in-network biases. This repo helps reduce that in-network bias some amount.
