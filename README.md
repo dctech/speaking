@@ -49,3 +49,13 @@ This is a joint project by some DC Tech organizers. If you have an idea for impr
 From a speaker's perspective, it is great to be able to submit talks to many groups at once. This particularly affects talks that are general or evergreen, like those that are focused on soft skills and blogging -- these apply to many different audiences, not just a particular language or interest group.
 
 From an organizer's perspective, it is great to have a list of folks available to fill gaps in speaking schedules. Often gaps are filled by tapping into an in-network (“oh, I know this person has a talk they can whip up!“), but that furthers in-network biases. This repo helps reduce that in-network bias some amount.
+
+#### Technical Setup
+Meetup group admins (or anyone) can get notified about potential talks by "watching" the repo (next to "star" and "fork").
+
+To help people fill out talk-submission and talk-request issues in a consistent way, we use [GitHub Issue Templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+
+We also have two Probot scripts that auto-respond to issues for us. We use the [Auto-comment Probot](https://probot.github.io/apps/auto-comment/) to welcome people who submit a talk-issue. We use the [Stale Probot](https://probot.github.io/apps/stale/) to close talk-issues that are very old and not recently touched.
+
+You can see the config for each of these in our [.github](https://github.com/dctech/speaking/tree/master/.github) folder.
+
