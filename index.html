@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      html {
+        color: #333;
+        line-height: 1.4;
+      }
+
+      body {
+        max-width: 100ch;
+        margin: 1rem auto;
+        padding: 0 1rem;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        font-family: sans-serif;
+      }
+
+      .author-list {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      .author {
+        margin: 1rem 0 2rem;
+      }
+
+      .author img {
+        width: 60px;
+        height: 60px;
+        border-radius: 3px;
+        background-color: #f0f0f0;
+        float: right;
+        margin: 0 0 1rem 1rem;
+      }
+
+      .talk-list {
+        padding-left: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Talks by author</h1>
+    <p>This page views <a href="https://github.com/dctech/speaking/issues?labels=talk" target="_blank">talks</a> submitted to <a href="https://github.com/dctech/speaking" target="_blank">github.com/dctech/speaking</a>, grouped by author.</p>
+    <ul class="author-list">
+      <li>Loading…</li>
+    </ul>
+    <script>
+      (async () => {
+        const issuesByAuthor = (authors, issue) => {
+          authors[issue.user.login] = authors[issue.user.login] || {
+            user: issue.user,
+            issues: [],
+          };
+          authors[issue.user.login].issues.push(issue);
+          return authors;
+        };
+
+        const response = await fetch('https://api.github.com/repos/dctech/speaking/issues?labels=talk');
+        const issues = await response.json();
+        const authors = Object.values(issues.reduce(issuesByAuthor, {}));
+
+        authors.sort((a, b) => a.user.login.toLowerCase() < b.user.login.toLowerCase() ? -1 : 1);
+
+        document.querySelector('ul').innerHTML = authors.map(({user, issues}) => {
+          const talks = issues.map((talk) => {
+            return `
+              <li class="talk">
+                <a href="${talk.html_url}" target="_blank">
+                  ${talk.title}
+                </a>
+              </li>
+            `.trim();
+          }).join('');
+
+          return `
+            <li class="author">
+              <a href="${user.html_url}" target="_blank">
+                <img src="${user.avatar_url}" alt="Avatar of ${user.login}">
+                <h2>${user.login}</h2>
+              </a>
+
+              <ul class="talk-list">
+                ${talks}
+              </ul>
+            </li>
+          `.trim();
+        }).join('');
+      })();
+    </script>
+  </body>
+</html>
