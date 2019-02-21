@@ -33,6 +33,7 @@ Feel free to suggest a talk your meetup would like to hear! To request a talk id
 - [.NET DC User Group](https://www.meetup.com/dotnetdc/)
 - [Node.DC](https://www.meetup.com/node-dc/)
 - [NoVa DevOps](https://www.meetup.com/nova-devops/)
+- [NOVA Kubernetes](https://www.meetup.com/NOVA-Kubernetes/)
 - [Papers We Love DC/NoVA](https://www.meetup.com/Papers-We-Love-DC-NoVA/)
 - [ReactMD](https://www.meetup.com/React-MD/)
 - [RVA.js](https://www.meetup.com/rva-js/)
@@ -58,4 +59,3 @@ To help people fill out talk-submission and talk-request issues in a consistent 
 We also have two Probot scripts that auto-respond to issues for us. We use the [Auto-comment Probot](https://probot.github.io/apps/auto-comment/) to welcome people who submit a talk-issue. We use the [Stale Probot](https://probot.github.io/apps/stale/) to close talk-issues that are very old and not recently touched.
 
 You can see the config for each of these in our [.github](https://github.com/dctech/speaking/tree/master/.github) folder.
-
