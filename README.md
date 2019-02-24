@@ -34,6 +34,7 @@ Feel free to suggest a talk your meetup would like to hear! To request a talk id
 - [Node.DC](https://www.meetup.com/node-dc/)
 - [NoVa DevOps](https://www.meetup.com/nova-devops/)
 - [NOVA Kubernetes](https://www.meetup.com/NOVA-Kubernetes/)
+- [NoVaJS](https://www.meetup.com/NoVaJS/)
 - [Papers We Love DC/NoVA](https://www.meetup.com/Papers-We-Love-DC-NoVA/)
 - [ReactMD](https://www.meetup.com/React-MD/)
 - [RVA.js](https://www.meetup.com/rva-js/)
