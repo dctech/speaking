@@ -42,6 +42,7 @@ Feel free to suggest a talk your meetup would like to hear! To request a talk id
 - [The Joy of Programming](https://www.meetup.com/Joy-of-Programming-DC/)
 - [VueDC](https://www.meetup.com/vue-dc/)
 - [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/)
+- [DC Women in Agile](https://www.meetup.com/Women-in-Agile-DC-Metro/)
 
 ### About the Repo
 
