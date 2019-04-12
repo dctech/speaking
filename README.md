@@ -10,7 +10,7 @@ Please [fill out an issue](https://github.com/dctech/speaking/issues/new?templat
 
 ## Organizers
 
-Reach out to the speakers whose talks interest you! See also: [talks grouped by author](https://dctech.github.io/speaking/).
+Reach out to the speakers whose talks interest you! See also: [talks grouped by author](https://dctech.github.io/speaking/). Source code for this is in this repo, in `index.html`.
 
 ## Community
 
