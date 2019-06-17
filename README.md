@@ -25,6 +25,7 @@ Feel free to suggest a talk your meetup would like to hear! To request a talk id
 - [DevOpsDC](https://www.meetup.com/DevOpsDC) (we also publish our [speaker pipeline](https://github.com/devopsdc/devopsdc/projects/1))
 - [DC Hack && Tell](https://dc.hackandtell.org/)
 - [DC JavaScript](https://www.meetup.com/DC-JavaScript/)
+- [DC PostgreSQL User Group](https://www.meetup.com/DC-PostgreSQL-Users-Group/)
 - [DC Python](https://www.meetup.com/DCPython/)
 - [DC Ruby Users Group](https://www.meetup.com/dcruby/)
 - [DC VueVixens](https://www.meetup.com/VueVixens-DC/)
